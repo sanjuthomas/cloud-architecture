@@ -73,7 +73,7 @@
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-28" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_table;fillColor=#F58536;gradientColor=none;" vertex="1" parent="DQ1QM2f9-OcLjy2UWwaF-4">
           <mxGeometry x="400" y="160" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-31" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_table;fillColor=#F58536;gradientColor=none;" vertex="1" parent="DQ1QM2f9-OcLjy2UWwaF-4">
+        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-31" value="main" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_table;fillColor=#F58536;gradientColor=none;" vertex="1" parent="DQ1QM2f9-OcLjy2UWwaF-4">
           <mxGeometry x="630" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DQ1QM2f9-OcLjy2UWwaF-4" source="DQ1QM2f9-OcLjy2UWwaF-33" target="DQ1QM2f9-OcLjy2UWwaF-41">

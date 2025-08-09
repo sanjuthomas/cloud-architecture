@@ -139,6 +139,9 @@
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-83" value="Security Group around the EC2 instance in the public subnet should have the rules to allow traffic from the public internet." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="602.5" width="130" height="107.5" as="geometry" />
         </mxCell>
+        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-84" value="https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="710" width="397" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

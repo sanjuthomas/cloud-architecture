@@ -109,6 +109,12 @@
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DQ1QM2f9-OcLjy2UWwaF-4" source="DQ1QM2f9-OcLjy2UWwaF-34" target="DQ1QM2f9-OcLjy2UWwaF-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-79" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_access_control_list;" vertex="1" parent="DQ1QM2f9-OcLjy2UWwaF-4">
+          <mxGeometry x="610" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-80" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_access_control_list;" vertex="1" parent="DQ1QM2f9-OcLjy2UWwaF-4">
+          <mxGeometry x="40" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-25" value="Security Group" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="600" width="70" height="50" as="geometry" />
         </mxCell>
@@ -123,6 +129,9 @@
         </mxCell>
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-73" value="EC2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-81" value="NACL" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_access_control_list;" vertex="1" parent="1">
+          <mxGeometry x="440" y="602.5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

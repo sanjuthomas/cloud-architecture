@@ -43,6 +43,9 @@
         <mxCell id="DQ1QM2f9-OcLjy2UWwaF-23" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="DQ1QM2f9-OcLjy2UWwaF-4">
           <mxGeometry x="140" y="230" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DQ1QM2f9-OcLjy2UWwaF-25" value="Security Group" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=2;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="70" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
